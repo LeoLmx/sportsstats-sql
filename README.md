@@ -1,6 +1,6 @@
 # sportsstats-sql
 
-###Scenario
+### Scenario
 
 The course simulates you working at a fictitious company, as the course briefing cites:
 
@@ -8,7 +8,7 @@ You are a data scientist working for a data analytics firm. Your firm has explor
 
 The course is divided into Milestones:
 
-Milestone 1 - Data Analysis: Choose you dataset, your hypotheses and preliminarily data analysis
-Milestone 2 - Descriptive Stats: First queries, answering your questions
-Milestone 3 - Beyond Descriptive Stats: Expanding your questions, new connections, Pearson Correlation
-Milestone 3 - Presenting Your Findings (Storytelling): This whole notebook will be the Milestone 3
+1. **Milestone 1** - Data Analysis: Choose you dataset, your hypotheses and preliminarily data analysis.
+2. **Milestone 2** - Descriptive Stats: First queries, answering your questions
+3. **Milestone 3** - Beyond Descriptive Stats: Expanding your questions, new connections, Pearson Correlation
+4. **Milestone 3** - Presenting Your Findings (Storytelling): This whole notebook will be the Milestone 3
