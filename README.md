@@ -11,4 +11,4 @@ The course is divided into Milestones:
 1. **Milestone 1** - Data Analysis: Choose you dataset, your hypotheses and preliminarily data analysis.
 2. **Milestone 2** - Descriptive Stats: First queries, answering your questions
 3. **Milestone 3** - Beyond Descriptive Stats: Expanding your questions, new connections, Pearson Correlation
-4. **Milestone 3** - Presenting Your Findings (Storytelling): This whole notebook will be the Milestone 3
+4. **Milestone 4** - Presenting Your Findings (Storytelling): This whole notebook will be the Milestone 3
